@@ -102,6 +102,7 @@ table {
 }
 
 .busca__input {
+    color: #FFFFFF;
     align-items: center;
     background-color: transparent;
     border: none;
@@ -109,6 +110,11 @@ table {
     height: 24px;
     padding: 10px;
     width: 500px;
+}
+
+.busca__button {
+    padding: 0;
+    margin: 0 5px;
 }
 
 .busca__icone {
